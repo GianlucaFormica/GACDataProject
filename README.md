@@ -7,15 +7,15 @@ All needed data files are in the working directory
 sqldf is installed
 dplyr is installed
 
-The original datasets are loaded into R:
-subject_test
-subject_train
-X_test
-X_train
-Y_test
-Y_train
-activity_labels
-features
+#The original datasets are loaded into R:
+##subject_test
+##subject_train
+##X_test
+##X_train
+##Y_test
+##Y_train
+##activity_labels
+##features
 
 The corresponding test and training datasets are combined into 1 for each (X, Y, and subject).
 
