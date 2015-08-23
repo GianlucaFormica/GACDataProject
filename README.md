@@ -8,14 +8,14 @@ sqldf is installed
 dplyr is installed
 
 #The original datasets are loaded into R:
--subject_test
--subject_train
--X_test
--X_train
--Y_test
--Y_train
--activity_labels
--features
+1. subject_test
+2. subject_train
+3. X_test
+4. X_train
+5. Y_test
+6. Y_train
+7. activity_labels
+8. features
 
 The corresponding test and training datasets are combined into 1 for each (X, Y, and subject).
 
