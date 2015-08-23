@@ -1,21 +1,21 @@
 For information on the orignial dataset used for this analysis, please see 'OriginalDataREADME.md' in the same repo that holds 
 this file.
 
-Here is what the run_analysis.r file does: 
-Assumptions: 
+#Here is what the run_analysis.r file does: 
+##Assumptions: 
 All needed data files are in the working directory
 sqldf is installed
 dplyr is installed
 
 #The original datasets are loaded into R:
-##subject_test
-##subject_train
-##X_test
-##X_train
-##Y_test
-##Y_train
-##activity_labels
-##features
+subject_test
+subject_train
+X_test
+X_train
+Y_test
+Y_train
+activity_labels
+features
 
 The corresponding test and training datasets are combined into 1 for each (X, Y, and subject).
 
