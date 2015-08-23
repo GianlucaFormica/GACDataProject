@@ -3,9 +3,9 @@ this file.
 
 ###Here is what the run_analysis.r file does: 
 ####Assumptions: 
-*All needed data files are in the working directory
-*sqldf is installed
-*dplyr is installed
+* All needed data files are in the working directory
+* sqldf is installed
+* dplyr is installed
 
 ###The original datasets are loaded into R:
 1. subject_test
